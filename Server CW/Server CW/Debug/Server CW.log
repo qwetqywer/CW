@@ -1,0 +1,11 @@
+﻿  Customers.cpp
+c:\users\user\source\repos\cw\server cw\server cw\cw.h(2): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\user\source\repos\cw\server cw\server cw\customers.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+c:\users\user\source\repos\cw\server cw\server cw\customers.cpp(49): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\cw\server cw\server cw\customers.cpp(1127): warning C4101: money_ch: неиспользованная локальная переменная
+c:\users\user\source\repos\cw\server cw\server cw\customers.cpp(1127): warning C4101: time_ch: неиспользованная локальная переменная
+c:\users\user\source\repos\cw\server cw\server cw\customers.cpp(1127): warning C4101: type_ch: неиспользованная локальная переменная
+c:\users\user\source\repos\cw\server cw\server cw\customers.cpp(1395): warning C4101: money_ch: неиспользованная локальная переменная
+c:\users\user\source\repos\cw\server cw\server cw\customers.cpp(1395): warning C4101: time_ch: неиспользованная локальная переменная
+c:\users\user\source\repos\cw\server cw\server cw\customers.cpp(1395): warning C4101: type_ch: неиспользованная локальная переменная
+  Server CW.vcxproj -> C:\Users\user\source\repos\CW\Server CW\Debug\Server CW.exe
